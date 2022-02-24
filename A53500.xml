@@ -1,0 +1,444 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The living, dead pastor yet speaking in two sermons, preached on Bartholomews Day, Aug. 24, 1662, in Bewdly Chappel / by Henry Osland then minister there, and now published by some friends of truth.</title>
+            <author>Osland, Henry.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 69 KB of XML-encoded text transcribed from 36 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53500</idno>
+            <idno type="STC">Wing O531</idno>
+            <idno type="STC">ESTC R17697</idno>
+            <idno type="EEBO-CITATION">11863311</idno>
+            <idno type="OCLC">ocm 11863311</idno>
+            <idno type="VID">50054</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53500)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50054)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 503:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The living, dead pastor yet speaking in two sermons, preached on Bartholomews Day, Aug. 24, 1662, in Bewdly Chappel / by Henry Osland then minister there, and now published by some friends of truth.</title>
+                  <author>Osland, Henry.</author>
+               </titleStmt>
+               <extent>[6], 64 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:50054:1"/>
+               <pb facs="tcp:50054:1" rendition="simple:additions"/> 
+               <hi>THE LIVING, Dead Paſtor YET SPEAKING.</hi>
+            </p>
+            <p>
+               <hi>In two SERMONS, Preached on</hi> Bartholomews <hi>day,</hi> Aug. 24. 1662. <hi>in</hi> Bewdly <hi>Chappel, by</hi> Henry Oſ<g ref="char:EOLhyphen"/>land <hi>then Miniſter there.</hi>
+            </p>
+            <p>
+               <hi>And now Publiſhed by ſome Friends of TRUTH.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>MICAH</hi> 7. 8, 9.</bibl>
+               <p>Rejoyce not againſt me oh mine enemy; when I fall I ſhall ariſe; when I ſit in darkneſs the Lord ſhall be a light unto me.</p>
+               <p>I will bear the Indignation of the Lord, be<g ref="char:EOLhyphen"/>cauſe I have ſinned againſt him, untill he plead my cauſe; He will bring my ſoul to light, and I ſhall behold his righteouſneſs.</p>
+            </q>
+            <p>LONDON, <hi>Printed in the year</hi> 1663.</p>
+            <pb facs="tcp:50054:2"/>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:50054:2"/>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HE Reverend Author of theſe Sermons, is known far and near, for his Labour, Diligence and Zeal in Preaching the Goſ<g ref="char:EOLhyphen"/>pel ſince he entered on the Miniſtery; but could never be perſwaded to Print any one of thoſe Sermons, that God
+<pb facs="tcp:50054:3"/> made ſo ſucceſsfull in the Preaching.</p>
+            <p>Theſe enſuing we have made bold to Publiſh; not as the beſt, but the laſt Sermons of our beloved Paſtor. The aſperſions that were caſt upon him for his frequency in Preaching, made him (as on his death-bed) in theſe Ser<g ref="char:EOLhyphen"/>mons ſpeak more of himſelf, then in all that ever we heard him Preach before.</p>
+            <p>Theſe Sermons were preach<g ref="char:EOLhyphen"/>ed with good approbation of thoſe that heard them, though
+<pb facs="tcp:50054:3"/> of contrary perſwaſions: if any thing offend, let it be im<g ref="char:EOLhyphen"/>puted to us that Publiſhed them; not to him that only preached them; and the rather becauſe we cannot ſay that this is <hi>verbatim</hi> that which was Preached.</p>
+            <p>Reader, if the reading of theſe Sermons draw ſo many tears from thy eyes, (and re<g ref="char:EOLhyphen"/>ſolutions from thy heart, to be the Lords, and to ſerve him) as it did from thoſe that heard them, thou wilt not loſe thy labour, nor we our Pains.</p>
+            <p>
+               <pb facs="tcp:50054:4"/> The loſs that we and the Church hath had of ſuch burning and ſhining Lights, is ſo great, that it calls loud for our prayers, moans, and tears to the Lord of the harveſt, that he would ſend back ſuch Labourers into his harveſt, wherein you ſhall have the joint aſsiſtance of your ſorrow<g ref="char:EOLhyphen"/>full friends, for our dead, yet living Paſtor.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>I. D.</item>
+                     <item>T. F.</item>
+                     <item>R. W.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:50054:4"/>
+            <epigraph>
+               <bibl>HEBREWS 13. 20, 21.</bibl>
+               <q>
+                  <p>Now the God of peace that brought back again from the dead our Lord Jeſus the great Shepherd of the ſheep, through the blood of the everlaſting Covenant,</p>
+                  <p>Make you perfect in every good work, to do his will, working in you that which is pleaſing in his ſight, through Je<g ref="char:EOLhyphen"/>ſus Chriſt, to whom be glory for ever and ever.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>HIS Text is <hi>Pauls</hi> farewell prayer for the <hi>Hebrews</hi> in the cloſe of a large Epiſtle to them: And it may be the ſub<g ref="char:EOLhyphen"/>ject of my laſt Sermons, after many years labours with you, And in it you may obſerve three things;</p>
+            <p n="1">1. The perſon prayed unto, and that is God; who is deſcribed from the
+<pb n="2" facs="tcp:50054:5"/> rich fulneſs of his Majeſty, to be,</p>
+            <p n="1">1. <hi>Yhe God of peace;</hi> this expreſſed: and</p>
+            <p n="2">2. The God of all power; which is mplyed, yet amplified by one of the moſt mighty works that ever was done; to wit, the <hi>raiſing from the dead the Lord Jeſus;</hi> which Jeſus is alſo de<g ref="char:EOLhyphen"/>ſcribed from his Relation to the Church, <hi>to be the great Shepherd of the Sheep:</hi> And withal how he came to a Flock, and to be a Shepherd; and that was by the ſhedding of his blood, which blood is called <hi>the blood of the Everlaſting Covenant,</hi> which the God of peace made with the ſheep, and was confirmed by the bloodſhed of the Shepherd.</p>
+            <p n="2">2. The things prayed for:</p>
+            <p n="1">1. That the Hebrews might be <hi>per<g ref="char:EOLhyphen"/>fect in every good work.</hi>
+            </p>
+            <p n="2">2. That they might <hi>do the will of God.</hi>
+            </p>
+            <p n="3">3. That God would <hi>work the thing that was pleaſing in his ſight;</hi> wherein you have for whoſe ſake, by whom, or
+<pb n="3" facs="tcp:50054:5"/> through whom this muſt be wrought: that is, <hi>Jeſus Chriſt;</hi> And 2. In whom that is in you the Hebrews.</p>
+            <p>Laſtly, You have the <hi>doxology, to whom be glory for ever and ever, Amen.</hi>
+            </p>
+            <p>
+               <hi>Pauls</hi> prayer for them, is, and ſhall be mine for you. And that you may know the things prayed for you, I ſhall open them unto you (if God permit) I do obſerve that when Friends part, they uſually part with prayer.</p>
+            <p>
+               <hi>Jacob</hi> when he parted with <hi>Benjamin,</hi> he ſent him away with a prayer,
+<hi>Gen.</hi> 43. 14.</p>
+            <p>
+               <hi>Paul</hi> when he parted with the <hi>Ephe<g ref="char:EOLhyphen"/>ſians, Acts</hi> 20. kneeled down and pray<g ref="char:EOLhyphen"/>ed with them all; And obſerve, it was to God: not as the Papiſts do, to Saints and Angels, but to God <hi>through Jeſus Chriſt.</hi>
+            </p>
+            <p>The Doctrines from the words are many:</p>
+            <list>
+               <item>1. <hi>That God is the God of peace,</hi> i. e. <hi>of all bleſsings temporal and ſpiritual.</hi>
+               </item>
+               <item>2. <hi>That Jeſus Chriſt is the great Shep<g ref="char:EOLhyphen"/>herd of the Sheep.</hi>
+               </item>
+               <item>
+                  <pb n="4" facs="tcp:50054:6"/> 3. <hi>That the great Shepherd of the ſheep was dead for a time.</hi>
+               </item>
+               <item>4. <hi>That God did bring back again from the dead the great Shepherd of the ſheep.</hi>
+               </item>
+               <item>5. <hi>That there is an Everlaſting Cove<g ref="char:EOLhyphen"/>nant.</hi>
+               </item>
+               <item>6. <hi>That this Covenant is eſtabliſhed in the blood of Chriſt.</hi>
+               </item>
+               <item>7. <hi>Through his blood-ſhed Chriſt hath purchaſed a ſheepfold, or flock of ſheep.</hi> Verſe 21.</item>
+               <item>8. <hi>That a Believers duty is to do the will of God.</hi>
+               </item>
+               <item>9. <hi>That the doing of the will of God only is a good work.</hi>
+               </item>
+               <item>10. <hi>That the ſons of men muſt be fit<g ref="char:EOLhyphen"/>ted, adopted, made perfect to do good works.</hi>
+               </item>
+               <item>11. <hi>That God muſt work in us, and co<g ref="char:EOLhyphen"/>work with us, to do the thing that is pleaſing in his ſight.</hi>
+               </item>
+               <item>12. <hi>That glory is due to Chriſt for ever and ever.</hi>
+               </item>
+            </list>
+            <p>The Doctrine that I ſhall firſt ſpeak to, is this.</p>
+            <div n="1" type="doctine">
+               <pb n="5" facs="tcp:50054:6"/>
+               <head>DOCTRINE. Yhat Jeſus Chriſt is the great Shepherd of the ſheep.</head>
+               <p>He is frequently ſo ſtiled: Pſal. 23. 1. <hi>The Lord is my Shepherd.</hi> Pſalm 80. 1.
+<hi>Give ear O Shepherd of</hi> Iſrael, Ezek. 34. 23. <hi>I will ſet over them one Shep<g ref="char:EOLhyphen"/>herd,</hi> i. e. one great Shepherd, John 10. 14, 16. 1 Pet. 2. 25. <hi>the Shepherd and the Biſhop of our Souls.</hi> 1 Pet. 5. 4. <hi>Yhe chief Shepherd:</hi> and in the Text the great Shepherd: Which holds forth to us, that Chriſt hath a Fold, that he is to thoſe as the Shepherd to his ſheep<hi>:</hi> that Chriſt hath more intereſt in his flock and people, then any, then all Goſpel Miniſters have. It is true they are Shepherds, but he is the great Shepherd. The Prophets, Apoſtles, Miniſters, Paſtors are Shepherds; but they are all under Chriſt. So that what ever is the work, or may be the care of a Shepherd over his flock, or a
+<pb n="6" facs="tcp:50054:7"/> Miniſter for his people, the ſame more eminently is the work and care of Chriſt over, and for his people; which prin<g ref="char:EOLhyphen"/>cipally conſiſts,</p>
+               <p n="1">1. In gathering together, and keep<g ref="char:EOLhyphen"/>ing his Sheep, Jer. 31. 10. <hi>I will gather him and keep him, as a Shepherd doth his flock.</hi> Amos 3. 12. <hi>As the Shepherd takes out of the mouth of the Lion the two leggs and a peice of the ear:</hi> ſo will this Shepherd pull his ſheep out of the Lions Jaws; they ſhall not be devoured, Ezek. 34. 22.</p>
+               <p n="2">2. In nouriſhing and feeding his ſheep, Ezek. 34. 10, 11, 12. <hi>He will make them lye down in fat paſtures.</hi> And though men would famiſh his ſheep, and cut them ſhort, and ſeparate the Shepherds from them, which feed them with knowledge, and open to them the pure Goſpel of Chriſt<hi>:</hi> yet he will keep them alive in famine, and ſave their ſouls from dearth. It is all one with this great Shepheard to feed with means, or without means; with or with<g ref="char:EOLhyphen"/>out, Gods people ſhall be fed and nou<g ref="char:EOLhyphen"/>riſhed.</p>
+               <p n="3">
+                  <pb n="7" facs="tcp:50054:7"/> 3. In giving life to the ſheep, John 10. 28. 10. <hi>I am come that they may have life, and that they may have it more abundantly.</hi> Inferiour Shepherds can give you but meat and food, but the great Shepherd gives life alſo.</p>
+               <div type="application">
+                  <head>Uſe.</head>
+                  <p>LEt then the firſt Uſe be of Com<g ref="char:EOLhyphen"/>fort to the Lords people. I know it is matter of trouble to many Con<g ref="char:EOLhyphen"/>gregations of faithful believing Chri<g ref="char:EOLhyphen"/>ſtians, that their Guides are gone, and that they ſhall hear the voice of their profitable and beloved Paſtors no more. Well, theſe are driven from you, and a wofull breach is gone through the land, yet the great Shepherd abides with you. Precious believers, be not caſt down at your loſſes<hi>:</hi> Are you ſcattered in the gloomy day as the ſheep upon the mountains? this Shepherd will gather you again: Are you pur<g ref="char:EOLhyphen"/>ſued with Dogs and Wolves? do they
+<pb n="8" facs="tcp:50054:8"/> bite you and devour you? this Shep<g ref="char:EOLhyphen"/>herd will defend and ſave you<hi>:</hi> Do not you know where to go to find pa<g ref="char:EOLhyphen"/>ſture? this Shepherd will find a pa<g ref="char:EOLhyphen"/>ſture for you: Do at not any time ſay that you are as ſheep without a Shep<g ref="char:EOLhyphen"/>herd: when you put forth the firſt act of ſaving faith, you were aſſuredly put into Chriſts fold, and you ſhall be kept there by his wiſdom and care, and no one ſhall ever pull you out of his pa<g ref="char:EOLhyphen"/>ſture again.</p>
+                  <p>2. Here is matter of Exhortation<hi>:</hi> If Chriſt be the great Shepherd, then fol<g ref="char:EOLhyphen"/>low Chriſt, hear his voice, obey and follow him. Beloved brethren, you are like to hear my voice but in few words more. All you that have given your names to me, and have ever fol<g ref="char:EOLhyphen"/>lowed me, I command you to follow the great Shepherd, and follow none any further then they follow him<hi>:</hi> his voice is the Goſpel that he inſpired, that his Diſciples penn'd, and that he himſelf ſealed with his own blood<hi>:</hi> all are ſtrangers that ſpeak not according to this.</p>
+               </div>
+            </div>
+            <div n="2" type="doctine">
+               <pb n="9" facs="tcp:50054:8"/>
+               <head>DOCTRINE 2. That the great Shepherd was dead for a time.</head>
+               <p>This is the ſecond Doctrine. To prove the death of Chriſt by many Scriptures and Arguments is needleſs, it being an Article of our faith<hi>:</hi> yet conſult with theſe few texts, Zac
+13. 7. <hi>Awake my ſword againſt my Shepherd.</hi> Matth. 26. 31. Rev. 1. 18. <hi>I am he that liveth and was dead.</hi> That Chriſt was dead but for a time, is an Article of our faith alſo:
+<hi>The third day he roſe again from the dead:</hi> it was no long time that the grave did hold him.</p>
+               <p>You may ask me, What became of the ſheep when the Shepherd was dead? You may ſee in John 17.
+11. <hi>I am no more in the world, but theſe are in the world; holy Father, keep them through thy own name, thoſe whom thou haſt given me:</hi> He delivers them up to his Father, and God undertakes the keeping of them,
+<pb n="10" facs="tcp:50054:9"/> and the ſheep were ſafe continually, till the Lord brought back from the dead the great Shepherd; Chriſt left them in ſafe hands: he had more re<g ref="char:EOLhyphen"/>gard to his ſheep then to himſelf; he ſuffered himſelf to fall into the hands of bloody and malitious men, but he preſerved his ſheep: he promiſed them <hi>that he would not leave them comfortleſs; but he would come to them.</hi>
+               </p>
+               <div type="application">
+                  <head>Uſe.</head>
+                  <p>BE informed hence, that if the great Shepherd were dead for a time, then it is no Marvail my Brethren, if the leſſer Shepherds are dead for a time time alſo. For as Chriſt was, ſo muſt we be in this preſent world, 1 <hi>John</hi> 3. This is one part of our conformity to Chriſt<g ref="char:punc">▪</g> to be conformable to him in his death: <hi>Phil.</hi> 3. 10. The Prophets, ſaith
+<hi>Zechary,</hi> do they live alwayes or for ever? Zech. 1. 5. <hi>As for your Fathers, where are they? and for the Prophets, do</hi>
+                     <pb n="11" facs="tcp:50054:9"/> 
+                     <hi>they live for ever?</hi> They muſt dye as the great Shepherd did.</p>
+                  <p>Now Miniſters dye either a Natural or a Civil death: A Natural death, which is the ſeparation of their ſouls from their bodies: their Civil death is, when they are dead in Law; when the Law of the Land where they live, ſilen<g ref="char:EOLhyphen"/>ceth them, and makes them as if they were naturally dead. And on this ac<g ref="char:EOLhyphen"/>count there are many dead Shepherds this day in <hi>England;</hi> this day of the moneth, this day of the year, this twenty fourth of <hi>Auguſt</hi> is the Shep<g ref="char:EOLhyphen"/>herds killing-day; and whileſt <hi>England</hi> ſtood, there was never ſo many faith<g ref="char:EOLhyphen"/>full Miniſters dead whileſt they lived.</p>
+                  <p>There are many thouſand Sheep bewailing their dead Shepherds and Paſtors this day: and many a child be<g ref="char:EOLhyphen"/>wailing his dead Father; Such Fathers which have begotten them to God, as
+<hi>Eliſha</hi> did <hi>Elijah,</hi> My Father, my Fa<g ref="char:EOLhyphen"/>ther, the Chariots of <hi>England</hi> and the <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>orſmen thereof<hi>!</hi> This is the killing d<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y, O think it not ſtrange though it be
+<pb n="12" facs="tcp:50054:10"/> ſo! It is ſaid in the eleventh of the <hi>Revelations, that the Witneſſes muſt be ſlain, and their dead bodies muſt lye in the ſtreets ſo many dayes.</hi> The Wit<g ref="char:EOLhyphen"/>neſſes ſome take for the two Teſta<g ref="char:EOLhyphen"/>ments; but they have no bodies; it is moſt probable that theſe are men, and ſuch as ſhall not be naturally ſlain, but Civilly ſlain: and it is very probable that they ſet out the faithfull Miniſters and Magiſtrates that have been Chriſts Witneſſes, and born a teſtimony to his truth and wayes, and ſuch as ſtand to their teſtimony, and will not deny his name; theſe muſt be ſlain, yet not na<g ref="char:EOLhyphen"/>turally dead; they muſt lye in the ſtreets as dead men, unſerviceable, diſ<g ref="char:EOLhyphen"/>abled to do their own or the uſual work of Chriſt, that they have done; they cannot act as Magiſtrates and Mini<g ref="char:EOLhyphen"/>ſters. Theſe things are now doing<hi>:</hi> The witneſſes are at this time ſlain: how long they ſhall lye we know not. Whether three dayes and an half or longer: but as Chriſt was dead, ſo muſt they. And beloved hearers, this is the
+<pb n="13" facs="tcp:50054:10"/> day that I ſhall be in this ſenſe a dead man, a dead Shepherd, a dead Witneſs, after twelve years labours and witneſ<g ref="char:EOLhyphen"/>ſing to the truth of Chriſt in this place. It is your duty to remember the great Shepherd who is alive again, who <hi>will ſeek</hi> you and provide for you, and let you want no good thing, but lead you forth in the green paſtures<hi>:</hi> &amp; two ſupporting things I would have you to obſerve:</p>
+                  <p n="1">1. That the death of the great Shep<g ref="char:EOLhyphen"/>herd, was no loſs but a gain both for himſelf and you. Firſt, It did procure him a name above all names; that is, a power above all powers;
+<hi>Every knee ſhall bow to him, and to him every tongue ſhall confeſs; ſo that he ſhall be admired in all that believe,</hi> 2 Theſ. 1. All the earth ſhall admire him; he is by his death become the Author of Eternal ſalvation: he is an Advocate, King, Prieſt, Prophet, and ſhall be Judge at the laſt; All power is committed to him in heaven and in earth,
+<hi>Matth.</hi> 28. And Secondly, His death was gain to us<hi>:</hi> we had like ſheep gone aſtray, and
+<pb n="14" facs="tcp:50054:11"/> had never returned, had he not been Shepherd and Biſhop of our ſouls. But now his humiliation was our exaltation, his Croſs our Crown, his death our life. In him we have peace and pardon, mercy here, and glory hereafter<hi>:</hi> Oh fear not; the death of your Miniſters may be beſt for you, yea no loſs but gain.</p>
+                  <p n="2">2. The death of the great Shepherd was but ſhort; the Lord brought him back again; which is the next Doctrine.</p>
+               </div>
+            </div>
+            <div n="3" type="doctine">
+               <head>DOCTRINE 3. That the God of peace by his mighty power did bring back from the dead, the Lord Jeſus the great Shepherd of the ſheep.</head>
+               <p>The Scripture is full of Teſtimonies of Chriſts Reſurrection; the women that wailed at the grave early to ſee what became of him, had this Anſwer from the Angel: <hi>He is not here, for he is riſen; Come ſee the place where the Lord</hi>
+                  <pb n="15" facs="tcp:50054:11"/> 
+                  <hi>lay,</hi> Matth. 28. 6. <hi>Peter</hi> aſſures us of it, with the reſt of the Apoſtles, Acts 5 29, 30. Acts 2. 23, 24. <hi>It was not poſsible that he ſhould be held of the grave.</hi>
+               </p>
+               <p>And alſo the Scripture is full of Te<g ref="char:EOLhyphen"/>ſtimonies that Chriſt was raiſed up by the mighty power of God, <hi>Acts</hi> 3. 15. <hi>Acts</hi> 4. 10. <hi>Rev.</hi> 11. <hi>Gal.</hi> 1. 1. 1
+<hi>Pet.</hi> 1. 21. Theſe texts hold forth that Chriſt was raiſed up by the mighty power of God.</p>
+               <p n="2">2. Why did God raiſe again from the dead the Lord Jeſus?</p>
+               <p n="1">1. To make way for his further uſe<g ref="char:EOLhyphen"/>fulneſs for his people. As he by his death, had purchaſed, ſo by his Reſur<g ref="char:EOLhyphen"/>rection he was made capable of inter<g ref="char:EOLhyphen"/>ceding for his flock, and of ſending the Holy Ghoſt, and comforting them with his preſence in heaven<hi>:</hi> for Chriſts glorious preſence is not the leaſt of the glory of heaven: <hi>The Lamb is ſaid to be the light thereof.</hi>
+               </p>
+               <p n="2">2. To fulfill all the Types and Pro<g ref="char:EOLhyphen"/>phecies that went before of him. <hi>David</hi> prophecied of him, <hi>that God would not</hi>
+                  <pb n="16" facs="tcp:50054:12"/> 
+                  <hi>leave his ſoul in hell, nor ſuffer his holy one to corrupt in the grave. Jonah</hi> lay three dayes and three nights in the Whales belly, to Typifie the death and reſurrection of Chriſt.</p>
+               <p n="3">3. To make way for Chriſts further Glorification. Had he lain under the power of death, he could not have poſ<g ref="char:EOLhyphen"/>ſeſſed the fulneſs of his deſerved glory: the ſoul might have been perfectly hap<g ref="char:EOLhyphen"/>py, but whole Chriſt could not be hap<g ref="char:EOLhyphen"/>py, had he lain in the grave. And it was meet that as the body was in hun<g ref="char:EOLhyphen"/>ger, thirſt, cold, and did ſuffer much diſgrace in the work of mans redemp<g ref="char:EOLhyphen"/>tion, ſo it ſhould be glorified with a moſt tranſcendent glory.</p>
+               <p>We ſhall not meddle with that que<g ref="char:EOLhyphen"/>ſtion now, whether God intended more the glory of the perſon of the Media<g ref="char:EOLhyphen"/>tour, or the ſalvation of the elect, in his raiſing him up. We are ſure that Chriſts perſon ſhall excell in glo<g ref="char:EOLhyphen"/>ry, and be as the brighteſt ſtarr in the firmament of heaven, <hi>John</hi> 17. and <hi>John</hi> 12.</p>
+               <p n="4">
+                  <pb n="17" facs="tcp:50054:12"/> 4. To confirm and ſtrengthen our ſaith. <hi>For if Chriſt had not riſen, our faith had been vain,</hi> 1 Cor. 15. The Heathens were wont to reproach the Chriſtians for believing in a dead Chriſt; but they have a living Chriſt to truſt in: for he that was dead is alive again, and lives for evermore, yea <hi>lives to make interceſsion for them,</hi> Heb. 7. 25.</p>
+               <p n="5">5. That he might be the firſt fruits of them that ſleep, 1 <hi>Cor.</hi> 15. whoſe re<g ref="char:EOLhyphen"/>ſurrection is an evidence unto his peo<g ref="char:EOLhyphen"/>ple, that they that now ſleep, or ſhall fall aſleep in him, ſhall one day be brought back again from death to life, and feel the power of his Reſurrection raiſing them above death and the grave, to reſt with him in life and glory,
+1 <hi>Theſ.</hi> 4. 14, 15.</p>
+               <p>Let us inferr, That if it pleaſe God, and it be agreeable to his will, he that brought back the great Shepherd of ſheep, can bring back the dead Shep<g ref="char:EOLhyphen"/>herds of <hi>England</hi> from their Civil death.</p>
+               <p>
+                  <pb n="18" facs="tcp:50054:13"/> You know beloved, the Spiritual Fa<g ref="char:EOLhyphen"/>thers of many Congregations are dead this day<hi>:</hi> and the houſes are full of mourning: Some weeping in one cor<g ref="char:EOLhyphen"/>ner, ſome in another; one child in one chamber, another in another; and I ſee your eyes are full alſo: Oh let this dry up the tears that fall; God can if he will, bring back from death your Shepherds again! When <hi>Martha</hi> and <hi>Mary</hi> were weeping over their dead brother
+<hi>Lazarus,</hi> the Lord raiſed him up again<hi>:</hi> He hath the ſame hands, power, and skill: <hi>He kills and he makes alive again.</hi>
+               </p>
+               <p>Object <hi>You may ſay it is unlikely that ever they ſhould live again.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> So thought <hi>Martha</hi> and <hi>Mary</hi> when <hi>Lazarus</hi> had been dead four dayes and laid in his grave, <hi>John</hi> 11. It was unlikely alſo that ever Jeſus Chriſt ſhould riſe again: the Soldiers ſeal his ſepulchre, roul upon him a mighty ſtone, watch him, make him as ſure as they could, <hi>Mattth.</hi> 27. 66. read the place: yet notwithſtanding all, he
+<pb n="19" facs="tcp:50054:13"/> roſe again. The two Witneſſes were barbarouſly uſed, read
+<hi>Revelations ch<g ref="char:punc">▪</g>
+                  </hi> 11. <hi>yet when the ſpirit of life from God en<g ref="char:EOLhyphen"/>tered into them, they ſtood upon their feet,</hi> ver. 11.</p>
+               <p>Theſe things God hath done, and this thing he can do: but what God will do, I am not certain. Yet I conjecture that the Shepherds of <hi>England</hi> ſhall be dead but for a time<hi>:</hi> God will bring them back again from death; for Chriſt hath told us, <hi>That no man lighteth a Candle to ſet it under a buſhel, but to give light to the whole houſe.</hi> And do you think that God who hath lighted ſo many Candles, that have and may be uſefull to enlighten his houſe, will he ſet them under buſhels? Shall ſo much pretious light be loſt for ever? ſo ma<g ref="char:EOLhyphen"/>ny pretious gifts beſtowed in vain? ſuch gold ruſt, and ſo many fruitfull trees lye under that curſe, Never more fruit grow on theſe trees? it cannot be: Shall God bring to the birth, and not bring forth? It is true indeed God did puniſh an <hi>Aegypt</hi> that would not let his
+<pb n="20" facs="tcp:50054:14"/> people go, with ſome dayes of darkneſs, and ſo he may and doth puniſh his peo<g ref="char:EOLhyphen"/>ple with the loſs of light, that will not let their iniquities go; he ſends a famine, not of bread, but of the word of God; and makes his people travel from ſea to ſea; but theſe judgements are not ordinary, nor long laſting, but revocable upon humiliation and repen<g ref="char:EOLhyphen"/>tance (unleſs God intends to re<g ref="char:EOLhyphen"/>move his Goſpel utterly from them) ſhall he that hath commanded to ſend Labourers in his vineyard, take ſo ma<g ref="char:EOLhyphen"/>ny out at once, and ſuffer them to be kept out? eſpecially when they have a deſire to work and hate to be idle, and the vineyard deſires them ſo much, and needs them much more<hi>:</hi> But Chriſt is the great Shepherd of the ſheep; he putteth down one, and ſetteth up ano<g ref="char:EOLhyphen"/>ther, whom he will; and when he will.</p>
+               <p>However it pleaſe the Lord to deal with us for the future, it hath pleaſed the Rulers of this Land by an Act of Parliament to diſable all Miniſters of
+<pb n="21" facs="tcp:50054:14"/> the Goſpel, that after this day ſhall not conform to certain things; moſt of which we have had time ſufficient to conſider of. And I for my own part have not been wanting in prayer to my God for his direction in reading the Books written on both ſides, in converſing with the intelligent to find out what my duty is. I have con<g ref="char:EOLhyphen"/>cluded upon nothing raſhly, but with much deliberation: I did not ſet the examples of men before me, nor drew any reſolution from their pra<g ref="char:EOLhyphen"/>ctice: And if more had conformed then do, I ſhould have ſtood in the ſame judgement. And I ſeriouſly pro<g ref="char:EOLhyphen"/>feſs, that one of thoſe that ſtand off in theſe parts, weighs more with me, then ten of the Conformiſts. The gain or loſs of the world hath been nothing in my eye: I have had no thoughts of what I ſhall eat, what I ſhall drink, or what I ſhall put on; but I have impar<g ref="char:EOLhyphen"/>tially ſtudied the truth, and the rules by which our wayes and actions muſt be guided. And upon all this I do
+<pb n="22" facs="tcp:50054:15"/> moſt cleerly ſee, that it is not my du<g ref="char:EOLhyphen"/>ty, but it would be ſin for me to cloſe with the things that are propoſed and enjoyned. To give you my reaſons, is not ſafe for me, nor profitable for you<hi>:</hi> The new Liturgy I have not ſeen, and therefore will neither approve it, or diſallow it; leſt I be one of thoſe that ſpeak evil of that which I under<g ref="char:EOLhyphen"/>ſtand not. And though perhaps it is ſo compoſed, that I may or can aſſent to the greateſt part of it<hi>:</hi> yet if I and my brethren aſſent not, and conſent not unfeignedly to it all, we muſt ſpeak an untruth, and againſt our conſciences and knowledge in the face of a Con<g ref="char:EOLhyphen"/>gregation, where God is preſent, and his Saints, and where we muſt ſpeak as Gods Oracles, and no more then we are confident our Lord and Maſter Chriſt would ſpeak; or elſe we muſt refuſe it altogether. And indeed let it be how or what it will, whether it be through my weakneſs and Ignorance, I could not paſs my unfeigned aſſent and conſent to any book (as I remem<g ref="char:EOLhyphen"/>ber)
+<pb n="23" facs="tcp:50054:15"/> that ever I read of that bulk, excepr the Bible: and how I ſhould to this, I cannot imagine, ſith the old one hath ſo much ſaid againſt it, and this (as its ſaid) is not much different from it.</p>
+               <p>And although I know it is determi<g ref="char:EOLhyphen"/>ned by our Rulers that I ſhall preach the Goſpel no more, and that I muſt leave the moſt honourable, ſweet and moſt deſirable work in the world, the ſolemn publick ſervice of God in be<g ref="char:EOLhyphen"/>ing his mouth unto his people; And although I muſt leave a people whom I dearly love, and am perſwaded of their abundant love to me, whoſe ſer<g ref="char:EOLhyphen"/>vice in the Lord I love above all people, and have refuſed much of the world to dwell with them; Yet I ſay with <hi>Paul, That God needeth not my lye for his glory:</hi> He hath not put me upon a neceſſity of ſinning to do him ſervice. But the Apoſtle hath told us, that that mans damnation ſlumbereth not that ſaith he muſt do evil that good may come thereby.</p>
+               <p>
+                  <pb n="24" facs="tcp:50054:16"/> It is true, many people ſay that they are but ſmall things that are impoſed, &amp; indifferent things, and trifles, and won<g ref="char:EOLhyphen"/>der at us, that ſo many Miniſters will leave their places, and ceaſe preaching of the Goſpel for ſuch things as theſe, that any man may do and not ſcruple; and many good men do yield unto and keep their places.</p>
+               <p>To all this I ſay, God hath not taught me to call or account any ſin ſmall; it is in its nature damnable, an offence unto an infinite Majeſty, a pro<g ref="char:EOLhyphen"/>vocation of his wrath to break the leaſt of Gods Laws, or ſlight the ſmalleſt of his commands.</p>
+               <p>2. I ſay they are not ſmall to me, and I am confident they will not be ſmall things to our conforming Brethren in the day of Chriſt, however they ſeem now. They are not ſmall neither to ſuch as are in bitterneſs and trouble for what they have done. Oh that you could perſwade the afflicted, tormented ſouls of wounded men, that they are very ſmall things!</p>
+               <p>
+                  <pb n="25" facs="tcp:50054:16"/> If we that refuſe thought them ſmall, would we loſe our livelyhood in the world for them? Have we not love to our ſelves, our Wives and Children? Do we not deſire to live as comfortable as other men? Some ſay it is through an humour that we refuſe: A ſtrange hu<g ref="char:EOLhyphen"/>mour that will make men loſe 50. l. or 100. or 200. l. <hi>per annum.</hi> How ma<g ref="char:EOLhyphen"/>ny Miniſters are there that have many children, and little proviſion made for them (but what is in the promiſe) that cannot yield, but loſe all<hi>!</hi> let not the world for ſhame call theſe men co<g ref="char:EOLhyphen"/>vetous any more. Nay do you think that we would ceaſe preaching the Go<g ref="char:EOLhyphen"/>ſpel, that delightfull work of God, if they were ſuch ſmall things as ſome would make them? Hath not God given us ability, aſſiſtance and ſucceſs? Are not ye (many of you) our glory and Crown (if you ſtand faſt)? Why ſhould we loſe and leave the beſt em<g ref="char:EOLhyphen"/>ployment upon earth? There is no<g ref="char:EOLhyphen"/>thing but the fear of ſin that could ever cauſe us thus voluntarily to de<g ref="char:EOLhyphen"/>part
+<pb n="26" facs="tcp:50054:17"/> out of the Lords Vineyard.</p>
+               <p>3. What others do, is no rule to me; I judge not their parts or piety: I have ſeen ſome of their Reaſons, and have weighed them in the ballance, and find them too light to bring me up to them. We know what Miniſters did in King <hi>Edward</hi> the ſixths dayes, and what the ſame men did in Queen <hi>Maries</hi> dayes, and what the ſame men did again in Queen
+<hi>Elizabeths</hi> dayes. Becauſe <hi>Peter</hi> denyed his Maſter under a temptation, and afterwards Judaized through diſſi<g ref="char:EOLhyphen"/>mulation, the wayes of Apoſtacy and deceit are not the better, becauſe ſo great an Apoſtle was found in them. But I will not diſpute the caſe; God will be judge himſelf ſhortly. Judge nothing before the time.</p>
+               <p>As for you my de<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rly beloved in the Lord, by the coſt and care of my Pa<g ref="char:EOLhyphen"/>rents I was brought up for the Mini<g ref="char:EOLhyphen"/>ſtry; and by the providence of God I was deſigned for you. In this Town I had part of my Education, and there<g ref="char:EOLhyphen"/>fore here I was the more willing to
+<pb n="27" facs="tcp:50054:17"/> imploy my Talent. It was not wages that I ſought for, or that drew me hi<g ref="char:EOLhyphen"/>ther, but work and labour; not yours, but you. Many thought my time would not have been ſo long with you, but I thought if God had ſpared life, it ſhould not have been ſo ſhort. Had I hearkened to Calls for greater preferment, and accepted them, I had not been here to take my leave now: but I had amongſt you that which pleaſed me moſt; and as the hopes of it invited me to ſit down with you, ſo it provoked me to ſtay with you, even the ſucceſs of my Miniſtry in the converting and conſo<g ref="char:EOLhyphen"/>lating of your ſouls. But now my Sun is gone down at noon, and I am divided from you in the beſt of my dayes, before the grey hairs have come upon me. As you were contented to ſit under my Miniſtry in my tender years, had it pleaſed the Lord, you ſhould have had the benefit of my riper ſtudies: But our Times are in Gods hand, and he metes us out the work and places where we muſt be.
+<pb n="28" facs="tcp:50054:18"/> By this ſad parting, it too plainly ap<g ref="char:EOLhyphen"/>pears, that I have been an unprofitable Preacher to you, and you unprofitable Hearers: and Oh that we might joyn in one ſolemn day, to humble our ſelves both for the ſins of my Preaching, and you for the ſins of your hearing; but it is now too late. I will crave leave to ſpeak a word in my behalf: I know not what aſperſions may be caſt upon me, as there have been; as to my deſign amongſt you in my work, God is my record, that I aim<g ref="char:EOLhyphen"/>ed at nothing but the Converſion, San<g ref="char:EOLhyphen"/>ctification and Salvation of your ſouls: I was glad when I heard of any of you that were willing to leave your ſins, and to ſet upon duty; and I could no further delight in you, then I ſaw you delight in God and his wayes. My Miniſtry was not with the affected words of mans wiſdom: I never de<g ref="char:EOLhyphen"/>l<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ghted to ſpeak a word which I thought the meaneſt in the Aſſembly could not underſtand. I ſtudied not for a name or a praiſe, one hour in my Miniſtry, but how the truth might be made more fit
+<pb n="29" facs="tcp:50054:18"/> for you. And bleſſed be the God of our mercies, our labour hath not been alto<g ref="char:EOLhyphen"/>gether in vain in the Lord. When I came hither, I found many in Chriſt, ſome of which have continued with me on earth a ſupport, encouragement and comfort to me to this very day: ſome of them are in glory with Chriſt. Others there were that were ſtrangers to Chriſt at my coming, but ſince have ſubſcribed with their hand, and ſet to their ſeal to be the Lords. Yet of theſe ſome have continued upright, others have turned aſide to ſin and folly, broke their reſo<g ref="char:EOLhyphen"/>lutions made again and again, and have not performed their vows; but they that ſate at the table with me have lift up their hand againſt me, and ſit in the ſeat of drunkards and ſcorners; and it is to be feared will be found perſecutors of thoſe that are good, and grow worſe and worſe, and not only leave, but loſe their firſt love: and if they perſevere, they will be ranked amongſt Chriſts enemies at the laſt. Oh that this might be an awakening word to them this day,
+<pb n="30" facs="tcp:50054:19"/> and that God would turn their hearts once again, once again to his holy wayes, and keep them therein to the end, that they may be a comfort to me, and not a terrour to themſelves at the dreadfull day!</p>
+               <p>There are another ſort that I found wicked, and I fear ſo muſt leave them, on whom the powerfull word hath had no power, but to this day are ſinfull, diſobedient, following divers luſts, and hardning their hearts in the wayes of death, refuſe the terms, the means, and the Lord of life.</p>
+               <p>And now my beloved, having given you an account of my life with you, and my death approaching, my glaſs have<g ref="char:EOLhyphen"/>ing a few more ſands in it, I muſt proceed to my dying words, and they ſhall be in twenty Directions for your practice of godlineſs, and twenty re<g ref="char:EOLhyphen"/>queſts I ſhall make to you in the be<g ref="char:EOLhyphen"/>half of God and your everlaſting ſouls. And I beſeech you if you will do any thing for my ſake, or will regard the voyce, the words, the laſt words (for
+<pb n="31" facs="tcp:50054:19"/> all I know) of your tender and hear<g ref="char:EOLhyphen"/>ty friend, hear and obey my words as follow.</p>
+               <p n="1">1. Some of you are Magiſtrates, and act in a larger ſphere then others: Be<g ref="char:EOLhyphen"/>have your ſelves beſeeming the place you are put in; you ſit in the Seat of God, and you muſt judge for him. O ſit not in the ſeat of Drunkards and Scorners of God, his wayes, and peo<g ref="char:EOLhyphen"/>ple; as your truſt is greater then others, ſo will your account be. If you ſin now, you doubly ſin, and be ſure your ſin will find you out. Some of you are lately put in the places of men of pru<g ref="char:EOLhyphen"/>dence, piety, and zeal for God, that were not the off-ſpring of Sequeſtra<g ref="char:EOLhyphen"/>tions, or the iſſues of divided parties, but choſen into the company for their real worth, and perſonal abilities to ſerve the Town. And ſuch they are which have given you demonſtrations of Juſtice running down like water, and righteouſneſs like a mighty ſtream. They left you a Town well ordered, where prophaneſs ſeeks corners, and
+<pb n="32" facs="tcp:50054:20"/> impiety dare not ſhew its head; it hath been a ſhame and reproach for a drun<g ref="char:EOLhyphen"/>kard to reel, or a Sabbath-breaker to appear in the light. The mouths of ſwearers have been ſtopped, and the horn of the ungodly durſt not lift up it ſelf. It is not for their impiety that they are laid aſide, or unmeetneſs to rule, but through their own diſſatisfa<g ref="char:EOLhyphen"/>ction; and you that inherit their truſt (through favour) inherit their graces, diligence, and upright lives, that we may hereafter ſay of you, as we can of them, You left the place better then you found it. Love not ſin in your ſelves, for then you will not puniſh it in others<hi>:</hi> put not ſuch in your boſoms, againſt whom you muſt draw the Sword: Let not the enemies of holi<g ref="char:EOLhyphen"/>neſs be your friends and favourites, leaſt you ſpare <hi>Agag</hi> when God ſayes kill.</p>
+               <p n="2">2. Endeavour to ſettle with you a Preacher after Gods own heart, that will endeavour to pleaſe God and not man. Prayers without Preaching will
+<pb n="33" facs="tcp:50054:20"/> not ſave the ignorant and carnal that are yet amongſt you; thoſe that God hath joyned let them not be ſeparated: we read more of the Apoſtles preach<g ref="char:EOLhyphen"/>ing, exhorting, warning the people then we do of their praying with them. <hi>Paul</hi> did deſire <hi>that utterance might be given him,</hi> not to read a few prayers again and again, but that he might open his mouth boldly <hi>to make known the my<g ref="char:EOLhyphen"/>ſtery of the Goſpel,</hi> Epheſ. 6. 19. Col.
+4. 3, 4. he tells us, <hi>that he was not ſent to baptize, but to preach;</hi> that is eſpecially, principally to preach the Goſpel as his main and only work; <hi>and by the fooliſh<g ref="char:EOLhyphen"/>neſs of preaching God ſaveth ſuch as be<g ref="char:EOLhyphen"/>lieve;</hi> and he chargeth
+<hi>Timothy</hi> in a moſt ſolemn and dreadful manner be<g ref="char:EOLhyphen"/>fore God and the Lord Jeſus Chriſt, <hi>who ſhall judge the quick and dead at his coming, to preach the word, to be inſtant in ſeaſon and out of ſeaſon, to reprove, rebuke, exhort with all long-ſuffering &amp; doctrine.</hi> When I read all the texts that enjoyn preaching, and frequent preaching of the Goſpel, and ſee the practice of <hi>Paul,</hi>
+                  <pb n="34" facs="tcp:50054:21"/> how at all times he was ready to preach, <hi>Rom.</hi> 1. 15. whereever he came, and how he ſtrove to preach the Goſpel where he could get in and had liberty to do it.
+<hi>Rom.</hi> 15. 20 and how he travel<g ref="char:EOLhyphen"/>led up and down to preach, 2 <hi>Cor.</hi> 2. 12. &amp; 2
+<hi>Cor.</hi> 10. 14. yea though he had weak<g ref="char:EOLhyphen"/>neſs upon him, and infirmities in his fleſh,
+<hi>Gal</hi> 4. 13. All theſe things make me conclude that it is an excellent work, and the work of a Miniſter, and not to be neglected where we can have freedom on honeſt terms. And I won<g ref="char:EOLhyphen"/>der that men can content themſelves with a Reader only; or that any that are called to this work can ſatisfie conſci<g ref="char:EOLhyphen"/>ence with reading a form only to the people, and ſlight or preach againſt preaching. God hath vouchſafed a preaching Miniſtry to your Fathers and you at leaſt ſixty years. Oh continue it ſtill and take care of your choice! A dead miniſtry is as good as none, and an unpreaching Preacher is little better<hi>:</hi> I mean ſuch as preach well but live ill, that look towards heaven and row to<g ref="char:EOLhyphen"/>wards
+<pb n="35" facs="tcp:50054:21"/> hell. Moſt people deſire a Preach<g ref="char:EOLhyphen"/>er like themſelves; but do you ſeek for one better then your ſelves; you muſt (ſome of you) mend a great deal before you make the moſt holy and beſt men, and a great deal more before you can be the beſt Magiſtrates, and therefore for your ſelves you need a good, yea the beſt Miniſter. How much better was
+<hi>Joas</hi> for <hi>Jehoiadah?</hi> it is but a little time and God will ask you how you came by your places, and how you uſed your power; I wiſh you may give a good ac<g ref="char:EOLhyphen"/>count of both.</p>
+               <p n="3">3. As you are profeſſors of Chriſti<g ref="char:EOLhyphen"/>anity, both Magiſtrates and people, have I pray you a ſpecial care of the honour of God in the Town<hi>:</hi> God hath been honoured many years in this place: god<g ref="char:EOLhyphen"/>lineſs was eminently befriended, ſo that the Town was eminently hated and greatly beloved for its ſake; the godly far and near loved it; the wicked hated it and often threatned its ruine. Oh let the honour of God be dear to you all. Let not ſenſuality, fleſhly walking, re<g ref="char:EOLhyphen"/>vellings,
+<pb n="36" facs="tcp:50054:22"/> chamberings and wantonneſs, and all thoſe luxuriances of the carnal part be found amongſt you which are ſo contrary to the glory of God. Remem<g ref="char:EOLhyphen"/>ber God ſaith, <hi>I will honour them that honour me,</hi> 1 Sam. 2. 30. <hi>and thoſe that ſet light by God ſhall be deſpiſed,</hi> Mat. 22. <hi>Whether ye eat or drink, whatever you do, do all to the glory of God,</hi> 1 Cor. 10. make this your end and aim in all undertak<g ref="char:EOLhyphen"/>ings. Anſwer the temptation of Satan to pride, luſt, envy, gluttony, drunken<g ref="char:EOLhyphen"/>neſs, and fleſh pleaſing, with this queſtion, Is this to the glory of God? what will be the iſſue, the end of this action? will it redound to the glory of Chriſt? how near would earth come to heaven, and what a glorious reſembrance would there be of the heavenly hoſt of Saints and Angels by the ſons of mortals on the earth, if all they did were done to Gods honour! its theſe baſe ends of pleaſure, profit, credit, eaſe, earthly ap<g ref="char:EOLhyphen"/>plauſe, and honour that men proſecute on earth, which makes this world ſo like the ſuburbs of hell, and turns ſo many
+<pb n="37" facs="tcp:50054:22"/> thouſands into hell, <hi>Pſalm</hi> 9. <hi>For the wicked ſhall be turned into hell and all the people that forget God;</hi> that is, to glorifie, honour, exalt God. Oh that you would obſerve this, and all agree in aiming at, and intending his honour, and all of you would reſolve never wickedly to ſin more in Sabbath breaking, ſwearing, leſt we diſhonour God and caſt con<g ref="char:EOLhyphen"/>tempt upon the dreadful Name of the Lord our God.</p>
+               <p n="4">4. My next direction is, Endeavour to do the will of God and not your own; live over your prayer, <hi>thy will be done;</hi> ſelfiſhneſs is a great ſin, and ſelf is no<g ref="char:EOLhyphen"/>where ſtronger then in the will; when a man will have his own will, God and his Laws are ſet in defiance; wilfulneſs is the broadeſt, plaineſt way to ſelf-de<g ref="char:EOLhyphen"/>ſtruction. If we ſhould ask, Why is the world ſo wicked? it is becauſe they are wilfull, and they will have their own wills. And why are ſo many thouſands damned? Becauſe they followed their own wills, and would have their own wayes, and they could never be reduced
+<pb n="38" facs="tcp:50054:23"/> to the will of God, nor conquer the powers of their ſouls, nor their earthly members to ſubmit unto, and cloſe with the will of God, but they made Idols of their own wills, and then their own wills made them a worſhip and ſervice of the jealous God which he abomi<g ref="char:EOLhyphen"/>nated; and their wills choſe them out wayes which were croſs to Gods ways: And hence their perdition aroſe, as you read of the Jews, their wills chooſed their own wayes, then was war in the gates; and God tells them, Oh <hi>Iſrael,</hi> thy perdition is of thy ſelf, thou haſt deſtroyed thy ſelf; take heed of this wilfull refuſing of the will of God, and following of your own.</p>
+               <p n="5">5. Take heed of embracing damna<g ref="char:EOLhyphen"/>ble errors, the things that God hath witneſſed againſt, eſpecially take heed of Popery; Antichriſt muſt down, and <hi>Babylon</hi> muſt fall, though all the Kings of the earth labour to uphold them; and that the Pope is the Antichriſt, and <hi>Rome Babylon,</hi> there is more ſaid for it then can be ſaid againſt it. <hi>Save thy ſelf</hi>
+                  <pb n="39" facs="tcp:50054:23"/> 
+                  <hi>oh</hi> Zion <hi>from thoſe that dwell in</hi> Babylon; <hi>partake not of their ſins, leſt you partake of their plagues: the Beaſt and the falſe Pro<g ref="char:EOLhyphen"/>phet muſt be tormented with endleſs fire; they have ſhed ſo much of the blood of the Saints that they muſt have blood to drink, of which they are worthy.</hi> You may ſafe<g ref="char:EOLhyphen"/>ly lay down your lives for refuſing Po<g ref="char:EOLhyphen"/>pery; one of the late Prelates of this land hath left it on record, that there is no peace with <hi>Rome;</hi> Biſhop <hi>Hall.</hi>
+               </p>
+               <p n="6">6. Beware of a league with ſinners; let your companions be ſuch as fear the Lord; will you live in the boſome of thoſe that muſt be in hell for ever, ſuch as will be enticing and drawing you from that which is good and into ſin? wicked companions have been the bane of many thouſand ſouls; you have choice enough; there are many pretious belie<g ref="char:EOLhyphen"/>vers amongſt you of all ſorts, old and young, rich and poor; get into their ac<g ref="char:EOLhyphen"/>quaintance and fellowſhip; as a man is, ſo will his ſociety be; <hi>if ſinners entice, conſent not. Joſeph</hi> himſelf was cor<g ref="char:EOLhyphen"/>rupted in dwelling in the houſe of <hi>Pha<g ref="char:EOLhyphen"/>roah:</hi>
+                  <pb n="40" facs="tcp:50054:24"/> it is good breathing in a whole<g ref="char:EOLhyphen"/>ſome aire.</p>
+               <p n="7">7. Let not any ſin raign or quietly dwell in you; you may with leſs dan<g ref="char:EOLhyphen"/>ger to your everlaſting eſtate lie in a fire, or dwell in an ocean of water, then lie and abide in ſin; and yet no man will ſtay in a flame one hour, or lie in a river or pond. Oh but how long will men lie in the bed of ſin, and ſuffer ſin to lie in them! even till death diſſolves the frame, and ſeparates the ſoul from the fleſh, and both body and ſoul from God. Believe it Sirs, ſin is as bad and as full of evil as ever you heard it to be from the mouth of God or man; do not lie in it till you feel it; let not feeling make you believers, but fetch faith from the un<g ref="char:EOLhyphen"/>doubted Word of God<hi>:</hi> You wonder why Miniſters make ſuch an out cry againſt ſin, why it is dayly their work to cry it down; you wonder why men are ſo preciſe to ſtand at ſuch a diſtance from the appearance of evil, the ſhadow of ſin. Oh what nice men are thoſe with you that cannot ſwear with you,
+<pb n="41" facs="tcp:50054:24"/> and ſubſcribe to the Ceremonies, and drink your healths. Oh Sirs, did you know the evil of ſin, the poyſon that is in the ſmalleſt cup, the venom that is in the leaſt drop, you would keep at the ſame or a greater diſtance from it then others do. You that would not let a blemiſh be in your faces, a ſmall diſeaſe in your hearts<hi>:</hi> Oh why will you let a ſin lye in your ſouls, a ſin that will damn you, and ſhame you be<g ref="char:EOLhyphen"/>fore God and the world, and be a tor<g ref="char:EOLhyphen"/>ment to think of it to all eternity! Oh that I might be ſo happy with
+<hi>Sampſon</hi> to kill more of theſe Philiſtines at the day of my death, then in all my life.</p>
+               <p n="8">8. Let not the world and the things of the world be too precious in your eyes. Believe that there is not that worth in it, that its pleaſures and pro<g ref="char:EOLhyphen"/>fits tempt you to think there is. It is a portion that the Reprobate hath, and ſometime that the Elect do want. You have many more precious things to look after, love and delight in; a pre<g ref="char:EOLhyphen"/>cious God, a precious Chriſt, and a ho<g ref="char:EOLhyphen"/>ly
+<pb n="42" facs="tcp:50054:25"/> Spirit, precious Truth, and a preci<g ref="char:EOLhyphen"/>ous Soul, and Heaven. The world weighs nothing when it is laid in the ballance with any, with either of theſe Oh loſe not either of theſe for the gaining of this baſe world: having food and rayment, be content wit<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> things convenient; if God give you more, uſe them for his glory, and your neighbours wealth.</p>
+               <p n="9">9. Obey your King, not for wrath, but for Conſcience ſake: If he impoſe Taxes, murmur not at them. <hi>Tribute</hi> ſaith <hi>Paul, muſt be paid to whom Tribute is due, Fear to whom Fear, Honour to whom Honour.</hi> Protection is a greater mer<g ref="char:EOLhyphen"/>cy then we can value<hi>:</hi> How much would many people give for ſuch a de<g ref="char:EOLhyphen"/>fence as we have
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et upon all our glo<g ref="char:EOLhyphen"/>ry, and ſuch quiet habitations! our lives and goods are not proſtituted to the envious, but confirmed by Acts of Par<g ref="char:EOLhyphen"/>liament. <hi>Fear God and the King, and foll<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>w not them that are given to change.</hi>
+               </p>
+               <p>And ſo obey all in their places that are under him; in their places I ſay,
+<pb n="43" facs="tcp:50054:25"/> and in the things wherein they have power: The meaneſt Officer muſt not be contemned, nor reſiſted doing his Office: He that reſiſts, reſiſts an Ordinance of God,
+<hi>Rom.</hi> 13. But ſtill know that none have power againſt God; to ſet up an Altar againſt Gods Altar. The Church hath power to de<g ref="char:EOLhyphen"/>clare Chriſts Laws already made, and ſee them executed, and that the things of Chriſt be managed decently and in order, <hi>i. e</hi> orderly without confuſion: in Modes and things Circumſtantial they may determine as to time, place,
+<hi>&amp;c.</hi> and we muſt obey. But ſay the <hi>Leyden</hi> Divines. Syn. Pur. Theol. Diſp. 35. <hi>Ab omni traditionum humanarum jugo liberas habemus Conſcientias, cum ſolius Dei ſit res ad Religionem perti<g ref="char:EOLhyphen"/>nentes praeſcribere.</hi> If any thing be en<g ref="char:EOLhyphen"/>joyned that you cannot yield to, ſub<g ref="char:EOLhyphen"/>mit your ſelves to ſuffer patiently what ſhall be laid upon you. When you ſee it is your duty <hi>(non obedire)</hi> not to act and practiſe, there you muſt not
+<hi>nolle obedire,</hi> or <hi>ſuperbe repugnare;</hi> there's
+<pb n="44" facs="tcp:50054:26"/> a great deal of difference between a mans not being able to obey actively, and his being unwilling to obey, or proudly to reſiſt, or diſobey. Let the world know that you are willing to yield as far as you can. All this I add as to obedience in matters Ec<g ref="char:EOLhyphen"/>cleſiaſtical and Spiritual.</p>
+               <p n="10">10. Conform to things eſtabliſhed in the Church as far as you can<hi>:</hi> this follows on the laſt. There are many things good that you may ſafely own, and practiſe, and joyn in without ſin. Do not think, that becauſe I and others do refuſe to ſubſcribe and Conform, that therefore we could not yield to ſome, or that we judge all bad: no, we ſhould have gone far, rather then leave our Miniſtry, as far as any ſhoe of the pre<g ref="char:EOLhyphen"/>paration of the Goſpel would bear us. Your Caſe and ours are not the ſame; you are not put to declare your un<g ref="char:EOLhyphen"/>feigned Aſſent and Conſent to all and every point in the Liturgy as we are; nor to ſubſcribe to other things. I can (ſaith M<hi rend="sup">r</hi>. <hi>Z. C.)</hi> keep communion
+<pb n="45" facs="tcp:50054:26"/> under that form of Worſhip wherein I cannot adminiſter, and heartily ſay
+<hi>Amen</hi> to the Petitions which are put up in an order ſo confuſed, prepoſterous and indigeſted, that it ſeemeth to me ſo much below the gravity of the Church, whoſe mouth I muſt be, the ſeriouſneſs of the Office whereby I muſt miniſter, the ſanctity of the duty I am to perform, and the Jealous and Sacred nature of the object to whom they are preſented, that I dare not ſtand between God and his people in the ſame. In things that are unlaw<g ref="char:EOLhyphen"/>full abſolutely the actor and the looker on; he that prayes, and he that holds up his hands, ſinneth: But in things that are inconvenient, or in an imper<g ref="char:EOLhyphen"/>fect mode of Worſhip; where thete is a liberty of cloſing or refuſing: the Joyners are not guilty of the ſin, eſpe<g ref="char:EOLhyphen"/>cially if there is a ſecret proteſt ente<g ref="char:EOLhyphen"/>red againſt every deſiling thing. In our <hi>extempore</hi> prayers there were fail<g ref="char:EOLhyphen"/>ings, imperfections; we were men; words might fall that were not ſo
+<pb n="46" facs="tcp:50054:27"/> appoſite as was deſired by us for ſuch a duty: Our ſoul abhorred them as they were ſinfull, ſo did yours. Will God impute theſe to you? ſurely no. There is a local preſence, and a moral abſence in one and the ſame duty: the body is before the Miniſter, or Offici<g ref="char:EOLhyphen"/>ating Prieſts, ready to hear what God ſaith, or to offer up to God what he ſaith, but if he utter falſhood, the ſoul is abſent. A Miniſter preacheth a ma<g ref="char:EOLhyphen"/>nifeſt error, the hearer abhors it, keeps it far enough from the belief of his heart; ſhall this man be guilty of it? Surely it is his ſin that is the Actor, it lyeth at his own door: thou haſt delivered thy Soul. The Application is eaſie.</p>
+               <p n="11">11. Do not be drawn by the exam<g ref="char:EOLhyphen"/>ples of men only; nor feared by their threats: be not Conformiſts I mean becauſe ſuch and ſuch are: and be not Non-conformiſts becauſe others are ſo. I deſire that my bare practice may not lead you: poſſibly I may be deceived and miſtaken. We all know but in
+<pb n="47" facs="tcp:50054:27"/> part: as I ever ſaid, Follow me no further then I follow Chriſt. And though Chriſt refuſed to waſh his hands, though it was a tradition of their fore<g ref="char:EOLhyphen"/>fathers, and a command of Superiors, yet into their Synagogues Chriſt went. Search the Scriptures, ſee with your own eyes, and let the command and will of God weigh more with you then the example of men<hi>:</hi> And be not feared from following God through the fear of man; He hath aſſured you that no man ſhall harm you whileſt you follow the thing that is good. The fear of man hath been a great ſnare to the godly. How uprightly had <hi>Peter</hi> ſtood, had it not been for this?
+<hi>Daniel</hi> was fearleſs, and ſo would not omitt a ſmall thing of opening his window, but prayes in the ſight of all, though the King had forbidden it. Chriſtian Courage doth excellently become a Souldier of Chriſt: get much of the fear of God in your hearts. <hi>Timor timore, ut clavus clavo pellitur;</hi> fear drives out and expells fear.</p>
+               <p n="12">
+                  <pb n="48" facs="tcp:50054:28"/> 12. Have a great care of Schim<hi>:</hi> I ſpeak of ſinfull ſchiſm: There is a ſchiſm that is lawfull and commanded; and there is a ſchiſm unlawfull and con<g ref="char:EOLhyphen"/>demned. Separate from ſin and things in themſelves unlawfull, and the Scrip<g ref="char:EOLhyphen"/>ture will bear you out, 2 <hi>Cor.</hi> 6. <hi>ult.</hi> but to ſeparate from the Worſhip and Ordinances of God, becauſe they are not ſo lively adminiſtred, nor perhaps ſo purely as might be deſired, this is not warrantable. God muſt be ſer<g ref="char:EOLhyphen"/>ved with one mouth, with the beſt we can have and bring before him: A pair of Turtle doves or a little Goats hair is acceptable where no better can be had. Let nothing make you leave Gods houſe, but what himſelf departs for; the branch will not fall off, if it hath but a little nouriſhment from the root.</p>
+               <p n="13">13. Take heed of diſaffection to the people you differ from: Many of Chriſts members may be of another mind in, and about theſe trifles and <hi>ineptias to<g ref="char:EOLhyphen"/>lerabiles</hi> as
+<hi>Calvin</hi> calls them. Judge
+<pb n="49" facs="tcp:50054:28"/> of men according to their diligence and ſeriouſneſs in Worſhip, Knowledge and holy walking. Love them moſt that love the Lord and Laws of Chriſt. Let them Conform or not, hate or diſaf<g ref="char:EOLhyphen"/>fect none on this account, but ſuch as hate the Lord.</p>
+               <p n="14">14. Learn ſo to walk as you may avoid ſcandal and contempt. You muſt be carefull; elſe you will offend the weak Brethren, which <hi>Paul</hi> would not, and believers muſt not give of<g ref="char:EOLhyphen"/>fence to the Jew or to the Gentile, or the Church of God. <hi>Offences will come, but wo to them by whom they come.</hi> You may offend the weak, by extending of your liberty, and walking to the outſide of it; and you may contemn Authority by contracting it, and ſtanding too cloſe to your Chriſtian Liberty to the ſleighting of their Law<g ref="char:EOLhyphen"/>full Commands. Chriſtian Liberty is an excellent thing, but few know how to uſe it: but ſome upon its account wrong their Neighbours, ſome the Magiſtrate, but chiefly their own ſouls.</p>
+               <p n="15">
+                  <pb n="50" facs="tcp:50054:29"/> 15. Fret not at the ungodly when they proſper in the world: It was
+<hi>Da<g ref="char:EOLhyphen"/>vids</hi> fault or failing; let it not be yours. Though they oppreſs you, im<g ref="char:EOLhyphen"/>priſon you, trample on you, and ſay all manner of evil againſt you for the Lords ſake; though they make your lives uncomfortable, vex your ſouls, walk in profaneſs, have their wills, deſpiſe the oath of God, Ezek. 17. 18. <hi>bear indignation againſt the holy Cove<g ref="char:EOLhyphen"/>nant,</hi> Dan. 11. 30.
+<hi>forſake it and do wickedly againſt it.</hi> ver. 32. come not in trouble for it, but glory in their ſhame; be not troubled at them: Is not eternity long enough for them to ſuffer in? and is not time ſhort for them to ſin in? Read Job 20. 4, 5, 6. <hi>Is not the triumphing of the w<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cked ſhort, and the joy of the Hypocrite for a moment? But they ſhall periſh for ever, though his excellency mount up to the heavens, and his head reach to the clouds.</hi> How ſoon will their glory depart, and ſorrow and ſhame cover them as a Cloak<hi>!</hi> Oh Chri<g ref="char:EOLhyphen"/>ſtians, prize the favour of your Lord,
+<pb n="51" facs="tcp:50054:29"/> and account no man happy but he whoſe God is the Lord.</p>
+               <p n="16">16. Take heed of the wiles of Satan; he lies in wait at all times to deceive. It is his work to lay ſnares in times of liberty to draw you into licentiouſneſs, and to ſwim down the ſtreams of plea<g ref="char:EOLhyphen"/>ſure; in times of error to ſeduce you from the faith: in times of ſtrictneſs to out-do your duties, and overdo what God hath commanded. You cannot be too watchfull againſt ſuch an enemy who ſtrikes at the life of your ſouls. Do not think he doth not ſeek your ruine, becauſe he doth not viſibly appear to you, becauſe you do not ſee him; he works in the dark, and doth moſt againſt you, when he is leaſt ſuſpected. Oh be not ignorant of his devices.</p>
+               <p n="17">17. Do not eaſily part with your Comforts. You to whom the Lord hath ſpoken peace, and aſſured you of his love in and by the Goſpel, let not ma<g ref="char:EOLhyphen"/>ny croſs providences though he lifts you up, and caſts you down, though
+<pb n="52" facs="tcp:50054:30"/> he takes; and withholds good things from you, let not theſe make you lay by your comforts. You that live in the Church Militant, muſt expect op<g ref="char:EOLhyphen"/>poſition, combats and falls; miſeries as well as mercies will attend you; frowns as well as ſmiles, comings and goings of comforts, enjoyments, aſſiſtance. You muſt ſee nights as well as dayes; Summers and Winters, heats and colds, dews and drineſs. When any of your flowers wither, and your Suns go down ſadly, do not let your radical comforts depart from you: ſtill ſay with <hi>David, Why are thou caſt down my ſoul? why art thou diſquieted within me? Still truſt in God, for I ſhall yet praiſe him.</hi> Give not way to a dejected ſpirit, you can<g ref="char:EOLhyphen"/>not ſerve God acceptably; do all you do in joy fulneſs and praiſe, <hi>Pſa.</hi> 100. 1, 2. Never think you do well to be grie<g ref="char:EOLhyphen"/>ved and ſo far caſt down as to be un<g ref="char:EOLhyphen"/>ſerviceable to your God, or unmeet to praiſe him in holy joy, delight and love.</p>
+               <p n="18">18. Nouriſh faith, hope and love: It
+<pb n="53" facs="tcp:50054:30"/> is by faith that we muſt be juſtified and ſaved; by faith we muſt ſerve and pleaſe the living God; by faith we muſt conquer ſin, death &amp; the world; you need faith to go through with you in all conditions; hope is neceſſary to anchor the ſoul, and keep it cloſe to God in ſtorms, delayes and dangers: love will raiſe you and carry you after God and his waies, and make you bear affliction with delight. If you live in love, the God of love will be with you: it will ſweeten much of the troubles of the earth, and give you a taſte what heaven is. You'l need theſe graces more then all the world, when the Bride-groom cometh; when others are toyling for the world, do you la<g ref="char:EOLhyphen"/>bour for faith, hope, and charity: It was a fooliſh thing in the worlds eye to be<g ref="char:EOLhyphen"/>hold <hi>Noah</hi> build an Ark and make ſuch ado about ſo needleſs a thing as they thought; but who was the fool when the flood came? the world or
+<hi>Noah?</hi> You know how our meetings for the increaſe of faith, hope, and charity have been derided and decryed by too many
+<pb n="54" facs="tcp:50054:31"/> amongſt you as needleſs things: but who will be the fool when the Bride-groom comes! he that hath theſe graces, or he that hath them not<hi>!</hi> conſider but a little and judge.</p>
+               <p n="19">19. Take heed of the leaven of hypocriſie; thoſe that have read the Book called The Vain Religion, may know who the hypocrite is; is it not the man that profeſſeth to know, worſhip and own God for his Father, and yet in heart and works denies him? and is there any ſin more common then hypocriſie? nay are not you that ſo often have the hypocrite in your mouths to reproach your neighbours with, the hypocrites your ſelves?</p>
+               <p>Oh the miſchief that hypocriſie hath done in the Church! how many golden profeſſors but the other day, are be<g ref="char:EOLhyphen"/>come eminently prophane, and have not forſaken, but hated and openly re<g ref="char:EOLhyphen"/>nounced the things and waies of God and glory and rejoyce in it<hi>!</hi> Oh theſe mens Religion was but guilded hypocri<g ref="char:EOLhyphen"/>ſie, and now the guilt is off, and men
+<pb n="55" facs="tcp:50054:31"/> are in their own colours, and have on their own coats; now the hypocritical garment that they put on to deceive, is off. Oh be ſincere Chriſtians or none<hi>!</hi> let not the portion of the hypocrites be yours at the laſt day.</p>
+               <p>Laſtly, Above all make God your chiefeſt good; let Chriſt be your way to enjoy him through the help of the Spirit, Word, and Ordinances; let God be thy Father and thy all, and he will be ever thine, and with thee for thy good, who cannot dye. When one told a Chri<g ref="char:EOLhyphen"/>ſtian that his Father was dead, <hi>Deſine blaſphemias loqui,</hi> ceaſe to ſpeak blaſ<g ref="char:EOLhyphen"/>phemy, my Father is ſtill alive. When thou haſt done all thou canſt in work<g ref="char:EOLhyphen"/>ing out thy ſalvation, yet let the ſtreſs of all lie upon Jeſus Chriſt: Chriſt is all and in all: value the world and all things but as duſt, droſs, and dung in com<g ref="char:EOLhyphen"/>pariſon of this inviſible glory, Lord, God, Father, Son, and Holy Ghoſt! live to him, and dye in him, and you ſhall raign with him world without end.</p>
+               <p>I have now twenty more requeſts, or
+<pb n="56" facs="tcp:50054:32"/> petitions to you, which will be my dy<g ref="char:EOLhyphen"/>ing words, my laſt requeſts, if God bring me not from death again.</p>
+               <p n="1">1. I beſeech you all my Brethren and Fathers, examine your ſelves throughly to know the ſtate of your ſouls, and how you ſtand in the ſight of God; think how near the day of Aſſiſe is to us all; you are in an eſtate good or bad, of life or death<g ref="char:punc">▪</g> know ſo far as is attain<g ref="char:EOLhyphen"/>able, the caſe you are in; you are apt to ſay, when I have put this queſtion to you, We truſt it is well with us. Oh my Brethren it is not good to truſt (in this caſe) before you try; have you not heard and read that many a mans faith and hope is vain! <hi>Jam.</hi>
+1. and 2. chap. <hi>Job</hi> in many places? try your own caſe, know your own ſelves.</p>
+               <p n="2">2. See in your tryal eſpecially that the work of converſion is ſoundly wrought; ſee to that; <hi>Circumciſion nor uncircumciſion availeth nothing, but a new creature.</hi> All your ſhews are but as a tympany; all your duties huskes, ſhels, are unavailable without the new crea<g ref="char:EOLhyphen"/>ture.
+<pb n="57" facs="tcp:50054:32"/> Beloved my ſpirit ſtirreth in me through fear leſt you have not paſt yet through the new birth: the Scripture hath concluded you under wrath and wo, if you are not born again: Oh ſee to it.</p>
+               <p n="3">3. My next requeſt is, that you would not ſit down ſhort of Jeſus Chriſt; you may go far and do much, and yet fall ſhort of Jeſus Chriſt; there is a running in vain, becauſe men ſit down before they come to Chriſt; they ſit down with the Name of Chriſt, and with a few notions of Chriſt in their heads, and with ſome underling affecti<g ref="char:EOLhyphen"/>ons to him, and on a few formal per<g ref="char:EOLhyphen"/>formances to him, when they have not the life of Chriſt in them, nor the Laws of Chriſt, nor his Spirit ruling in their ſouls, nor his Word dwelling in them richly to teach them his fear. Oh be<g ref="char:EOLhyphen"/>loved, this is not your reſt; if you ſit down without the nature, life, laws, Spirit, and power of Chriſt in you, to qu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cken you, enliven, enlighten, impow<g ref="char:EOLhyphen"/>er, and enable you to live, love, obey,
+<pb n="58" facs="tcp:50054:33"/> and glorifie Chriſt, you will ſit down ſhort of Jeſus Chriſt, and then it had been better you had never ſet a foot to<g ref="char:EOLhyphen"/>wards Chriſt in his holy wayes<hi>:</hi> never reſt till you are in his arms, and your abode is in his boſome, you in him, and he in you the hope of glory.</p>
+               <p n="4">4. My next requeſt is, That you would mind above all things your eternal condition; you are this day ſitting on theſe ſeats now, by fires in your families with your relations anon<hi>:</hi> but to morrow you may be in eternity, and know no more what wives and children, ſun and moon, earth and sky, clocks and time, how they paſs by you and bring you reports from friends and various experiences as now they do; do all for eternity. Remember when you are praying you pray for eternity and eternal mercies and things<hi>:</hi> think when you feel your breath de<g ref="char:EOLhyphen"/>parting that eternity is coming upon you.</p>
+               <p n="5">5. Set up, and if you have begun, keep up ſerious and ſervent prayer in
+<pb n="59" facs="tcp:50054:33"/> your families, and other family duties of admonition, inſtruction, and reproof. Let your houſes be little Churches, and that which is denied you in other fa<g ref="char:EOLhyphen"/>milies, let it be had at home. I know the ſociety of believers of one heart is quickening in cloſe and private cham<g ref="char:EOLhyphen"/>bers, and our hearts are much enlarged then before God. Yet ſo long as you pray to the ſame God, for the ſame Church and people, eſpecially when your own fleſh and blood, your dear wives and children are at your elbows, Oh how ſhould this quicken you to be earneſt for the life of their ſouls! Let not the Lord when he looks down from heaven to ſee if there be any that ſeek after him, let not then your families be found prayerleſs families, as if you owed no obedience to God, or ſtood in no need of him, and leſt he clap a curſe on your dores,
+<hi>Curſed be this family that calls not upon the name of the Lord.</hi>
+               </p>
+               <p n="6">6. Have a ſpecial care of bringing up your children in the fear of God; in<g ref="char:EOLhyphen"/>ſtruct, correct, and give them a good
+<pb n="60" facs="tcp:50054:34"/> example: you have little of the world to leave them perhaps; if you leave them in the poſſeſſion of God and in the hopes of heaven, you have been good Parents to them; but to leave them nothing of the world and without God and hope, it is ſo ſad a thing that you will not give a good account of it be<g ref="char:EOLhyphen"/>fore God.</p>
+               <p>And you that are children, do not break your Parents heart by your ſinful diſobedient waies: you have tender Parents who love you, and would not bring you up for the devil, nor ſee you everlaſtingly confounded and burned in the lake of hell. Oh return to God and his holy waies,
+<hi>remember your Crea<g ref="char:EOLhyphen"/>tour;</hi> God longs for you and deſires the firſt ripe fruit; the ſooner you come in to him, the more you ſhall have of his love, and the more will your godly Pa<g ref="char:EOLhyphen"/>rents delight in you.</p>
+               <p n="7">7. Never be aſhamed of a ſerious, holy, godly life, though you are re<g ref="char:EOLhyphen"/>proached, vilified, and ſuffer much in the world for it; be not diſmayed, but re<g ref="char:EOLhyphen"/>joyce
+<pb n="61" facs="tcp:50054:34"/> and be exceeding glad that you are ſufferers for holineſs, and not perſe<g ref="char:EOLhyphen"/>cutors of it: but be aſhamed of a filthy converſation, of the Image of Satan, of the ſins that make you odious and loathſome in the ſight of God. I admire to paſs by the Ale-houſe-dores to hear ſo many ſinging, drinking, roaring, and they are not aſhamed at it; but there are many that are aſhamed to worſhip God in their own houſes, or reprove ſin: if this be not to be aſhamed of Chriſt, what is?</p>
+               <p n="8">8. My next requeſt is, That you would never think that you are holy enough, or have grace enough, but be ſtill preſſing after more. No worldly man thinks he hath riches enough but will be thirſting after more; and ſhall not the Chriſtian be as covetous after God? is not one dram of grace more then all the world, one ſmile of Gods countenance more then a hundred rivers of oil? why do you think you have enough of this labour, <hi>to grow in grace and to abound in it?</hi>
+               </p>
+               <p n="9">
+                  <pb n="62" facs="tcp:50054:35"/> 9. If you do not grow ſo faſt in grace as you ſhould, be ſure you do not decline and decay in grace. Whither hath Apoſtacy carried a backſliding ſoul<hi>!</hi> Apoſtates ſtop not frequently till they are in hell; there they reſt becauſe they can fall no lower; be ſenſible of thy declinings, Chriſtian, leſt they end in this, and thy latter end be worſe then thy beginning.</p>
+               <p n="10">10. My next requeſt is, That you would look to your worſhip; a little thing in worſhip is more offenſive to God then you think of. Conſider <hi>Nadab</hi> and
+<hi>Abihu;</hi> ſmall faults in wor<g ref="char:EOLhyphen"/>ſhip provoke highly: there we deal im<g ref="char:EOLhyphen"/>mediately with God, and his glory is immediately concerned; he is therefore nowhere ſo jealous as in the things of his worſhip: take heed of a laſie, frothy, formal, ſuperſtitious worſhip, leſt God caſt it as dung in your faces, and ſay, <hi>Who requires theſe things at your hands?</hi>
+               </p>
+               <p n="11">11. Have a ſpecial regard to the Lords day: let it not be prophaned by unlawful recreations, and games, nor by
+<pb n="63" facs="tcp:50054:35"/> thoſe that may be lawful at other times: loſe not an hour of it in vain delights or pleaſures of the fleſh: let the ſoul be at<g ref="char:EOLhyphen"/>tending on God even when your hands are about the works of neceſſity and mercy: do not think all your work is done when the publick worſhip is done: ſay not then, Fleſh, take thy pleaſure, I have ſerved God enough; this day it is a day for meditation, rejoycing, thank<g ref="char:EOLhyphen"/>fulneſs and prayer, and to viſit the ſick, inſtruct your families, and not to be ſpent in the ſervice of the world or fleſh.</p>
+               <p n="12">12. Though this be a day of ſcatter<g ref="char:EOLhyphen"/>ing, yet let brotherly love continue: thoſe that have walked in fellowſhip in publick and private Ordinances, let not your love be cold, but continue love and affection, and exhort one another, and pray one for another, and ſerve one another in love, and be kind, courteous, faithful, and zealous for the good of every poor ſheep that belongs to this fold.</p>
+               <p n="13">13. That you would be more then
+<pb n="64" facs="tcp:50054:36"/> ordinary diligent in working out your ſalvation. What means God will afford you, we cannot tell: if any, make uſe of it to work by: if ſmall or none, labour ſo much the more your ſelves. How comfortably might you live and die, if you knew that your calling and your election were made ſure! however dili<g ref="char:EOLhyphen"/>gence will bring comfort, ſloathfulneſs ſhame<hi>:</hi> it is no ſmall comfort now at my ſuſpenſion, that I worked while I had time,</p>
+               <p n="14">14. I requeſt you, that whatever you do, you do all in the ſtrength of Chriſt, &amp; not in your own; do nothing for your own glory but for his: keep down ſelf, and let it not be exalted againſt the Lord in any thing: take heed of ſelf-ſufficiency, ſelf-aims, ſelf-ends; learn not only to truſt in Chriſt, but to uſe Chriſt: here is the wiſdom of the Saints to do all in Chriſt and for Chriſt.</p>
+               <p n="15">15. I beſeech you pitty and look to your poor; they grow great and nu<g ref="char:EOLhyphen"/>merous, and many are poor inwardly and outwardly both: let ſome courſe be
+<pb facs="tcp:50054:36"/> 
+                  <gap reason="missing" extent="1+ pages">
+                     <desc>〈1… pages missing〉</desc>
+                  </gap>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
